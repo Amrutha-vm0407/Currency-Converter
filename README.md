@@ -3,8 +3,8 @@
 <h3>Step:1. Choose a Currency API:</h3>
 <p>Free APIs like ExchangeRate-API, Open Exchange Rates, or Fixer provide real-time currency exchange rates. Some might offer limited free usage</p>
 
-<h3>Step:2. Collecting the countrycode for each country name</h3>
-<p>The file copy.js contains the country list and country code</p>
+<h3>Step:2. Collecting the country code </h3>
+<p>The file copy.js contains the country list with the country code</p>
 
 <h3>Step:3. Designing the Converter:</h3>
 <p>You will need to build an User Interface that allows the user to input:</p>
