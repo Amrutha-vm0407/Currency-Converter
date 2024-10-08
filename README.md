@@ -1,5 +1,5 @@
 <h1>Currency Converter using API</h1>
-<h2>Demonstration of the website: https://chipper-dusk-326501.netlify.app/<h2>
+<h2>Live demo: https://chipper-dusk-326501.netlify.app/<h2>
 <h2>Procedure followed while building</h2>
 <h3>Step:1. Choose a Currency API:</h3>
 <p>Free APIs like ExchangeRate-API, Open Exchange Rates, or Fixer provide real-time currency exchange rates. Some might offer limited free usage</p>
@@ -41,6 +41,6 @@
 
 
 <h1>Step 3: Once the repository has been cloned, navigate to the project folder using the following command:</h1>
-<p>cd rock-paper-scissors</p>
+<p>cd Currency-Converter</p>
 <p>open index.html and then run the code </p>
 
