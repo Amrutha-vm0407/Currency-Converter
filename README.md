@@ -18,4 +18,5 @@
 <h3>Step:4. Fetching API:</h3>
 <li>We have used the API link that contains the currency value of each country</li>
 <li>https://v6.exchangerate-api.com/v6/b71ba5a6f69833fe3ac900ec/latest/{current country}</li>
+<li>Javascript file which contains all the logic code applied for building project</li>
 
