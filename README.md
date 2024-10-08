@@ -1,5 +1,5 @@
 <h1>Currency Converter using API</h1>
-<h2>Demonstration of the website:https://chipper-dusk-326501.netlify.app/<h2>
+<h2>Demonstration of the website: https://chipper-dusk-326501.netlify.app/<h2>
 <h2>Procedure followed while building</h2>
 <h3>Step:1. Choose a Currency API:</h3>
 <p>Free APIs like ExchangeRate-API, Open Exchange Rates, or Fixer provide real-time currency exchange rates. Some might offer limited free usage</p>
