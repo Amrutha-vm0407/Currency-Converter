@@ -19,6 +19,10 @@
 <h3>4. Fetching API:</h3>
 <li>We have used the API link that contains the currency value of each country</li>
 <li>https://v6.exchangerate-api.com/v6/b71ba5a6f69833fe3ac900ec/latest/{currentcountry}.json</li>
+<img src="Screenshot 2024-10-09 232339.png">
+<h2>Currency Converter interface</h2>
+<img src="Screenshot 2024-10-09 232512.png">
+<h2>Currency Converter interface which shows all the country codes included for the conversion</h2>
 
 
 <h1>Technology used</h1>
